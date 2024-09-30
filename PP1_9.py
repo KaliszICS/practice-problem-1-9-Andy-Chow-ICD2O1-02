@@ -1,4 +1,9 @@
-
+'''
+    Assignment: String Manipulation
+    Author: Andy Chow
+    Date Created: Sept 30, 2024
+    Date Last Modified: Sept 30, 2024
+'''
 
 def q1(): 
     print('"Hello World"')
